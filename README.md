@@ -71,11 +71,3 @@ sudo apt-get install -y wkhtmltopdf xvfb
 Otherwise, the view created for downloading the PDF version of the CV will create an error.
 However, you can always print the CV using Google Chrome's built-in "Print to PDF" functionality.
 
-If you liked the application, you can always show your appreciation by starring my repo :) 
-
-In case you have any trouble, you can reach me out directly using the below link:
-
-https://www.ozan.pl/contact/
-
-Cheers,
-Ozan Tellioglu
